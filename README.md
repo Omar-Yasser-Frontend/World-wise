@@ -23,3 +23,7 @@ WorldWise is a travel tracking application that allows users to log visited plac
 - Styling: CSS Modules
 
 - Map Integration: Leaflet.js
+
+# Demo
+
+- [Live Demo](https://world-wise-kp0iuzbpa-omar-yasser-frontends-projects.vercel.app/)
