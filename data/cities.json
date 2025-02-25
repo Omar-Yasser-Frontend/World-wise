@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "id": "3abd",
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-01-29T23:49:17.222Z",
+      "notes": "",
+      "position": {
+        "lat": "24.84656534821976",
+        "lng": "26.806640625000004"
+      }
+    },
+    {
+      "id": "1d0a",
+      "cityName": "Shalatin",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-01-29T23:49:21.415Z",
+      "notes": "",
+      "position": {
+        "lat": "23.241346102386135",
+        "lng": "33.75000000000001"
+      }
+    },
+    {
+      "id": "6601",
+      "cityName": "Faya-Largeau",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2025-01-29T23:49:23.495Z",
+      "notes": "",
+      "position": {
+        "lat": "17.5602465032949",
+        "lng": "19.863281250000004"
+      }
+    },
+    {
+      "id": "16a2",
+      "cityName": "Abeche",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2025-01-29T23:49:25.133Z",
+      "notes": "",
+      "position": {
+        "lat": "13.752724664396988",
+        "lng": "20.566406250000004"
+      }
+    },
+    {
+      "id": "0e36",
+      "cityName": "Faya-Largeau",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2025-01-29T23:49:27.086Z",
+      "notes": "",
+      "position": {
+        "lat": "15.792253570362446",
+        "lng": "18.105468750000004"
+      }
+    },
+    {
+      "id": "073a",
+      "cityName": "Wadi ad-Dawasir",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-01-29T23:49:28.709Z",
+      "notes": "",
+      "position": {
+        "lat": "22.350075806124867",
+        "lng": "44.82421875000001"
+      }
+    },
+    {
+      "id": "9d1e",
+      "cityName": "Simira’",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-01-29T23:49:31.654Z",
+      "notes": "",
+      "position": {
+        "lat": "26.509904531413927",
+        "lng": "41.92382812500001"
+      }
+    },
+    {
+      "id": "834a",
+      "cityName": "Kayapinar",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-01-30T00:00:39.712Z",
+      "notes": "",
+      "position": {
+        "lat": "38.06539235133249",
+        "lng": "39.99023437500001"
+      }
+    },
+    {
+      "id": "6580",
+      "cityName": "Cut",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-01-30T00:00:43.726Z",
+      "notes": "",
+      "position": {
+        "lat": "45.9511496866914",
+        "lng": "23.642578125000004"
+      }
+    },
+    {
+      "id": "d891",
+      "cityName": "Neuhof",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-01-30T00:00:45.606Z",
+      "notes": "",
+      "position": {
+        "lat": "50.45750402042058",
+        "lng": "9.667968750000002"
+      }
+    },
+    {
+      "id": "ad52",
+      "cityName": "Drogichin",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2025-01-30T00:00:47.199Z",
+      "notes": "",
+      "position": {
+        "lat": "52.16045455774706",
+        "lng": "25.312500000000004"
+      }
+    },
+    {
+      "id": "c2ba",
+      "cityName": "Gorokhovets",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-01-30T00:00:49.030Z",
+      "notes": "",
+      "position": {
+        "lat": "55.92458580482951",
+        "lng": "42.36328125000001"
+      }
+    },
+    {
+      "id": "c560",
+      "cityName": "Cabanac-Seguenville",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-01-31T01:18:20.434Z",
+      "notes": "",
+      "position": {
+        "lat": "43.78695837311561",
+        "lng": "0.9887695312500001"
+      }
+    },
+    {
+      "id": "6026",
+      "cityName": "Garrovillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-31T04:49:58.690Z",
+      "notes": "ldnfgsldn glfsdnglksdnglsdfngsdlgndsf\ngfdg\nsd\ng\nsdg\nsd\ng\nsd",
+      "position": {
+        "lat": "39.690280594818034",
+        "lng": "-6.50390625"
+      }
+    },
+    {
+      "id": "1e36",
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2025-01-31T22:22:02.636Z",
+      "notes": "",
+      "position": {
+        "lat": "24.10664717920179",
+        "lng": "20.961914062500004"
+      }
+    }
+  ]
+}
